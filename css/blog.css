@@ -1,0 +1,23 @@
+.col1{
+	background-color: blue;
+	color: #ffff;
+	text-align: center;
+}
+.col2{
+	background-color: tomato;
+	color: #ffff;
+	text-align: center;
+}
+.nestedcol1{
+	background-color: #ec610f;
+	color: #ffff;
+	text-align: center;
+}
+.nestedcol2{
+	background-color: #f116c1;
+	color: #ffff;
+	text-align: center;
+}
+.col3{
+	background-color: cyan;
+	}
